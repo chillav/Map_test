@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Map_test</string>
+    <string name="unexpected_error">Something went wrong</string>
+    <string name="denied_location_permission_error">App required location permission</string>
+</resources>
